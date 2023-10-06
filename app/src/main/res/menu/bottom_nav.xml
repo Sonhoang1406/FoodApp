@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Main"
+        android:id="@+id/mainDishes"
+        android:icon="@drawable/drink"
+        />
+    <item android:title="Side"
+        android:id="@+id/sideDishes"
+        android:icon="@drawable/drink"/>
+    <item android:title="Fruit"
+        android:id="@+id/fruit"
+        android:icon="@drawable/fruit"/>
+    <item android:title="Drink"
+        android:id="@+id/drink"
+        android:icon="@drawable/drink"
+        />
+    <item android:title="Cart"
+        android:id="@+id/cart"
+        android:icon="@drawable/shoppingcart"
+        />
+</menu>
